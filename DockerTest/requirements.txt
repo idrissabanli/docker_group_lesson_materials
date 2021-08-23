@@ -62,7 +62,7 @@ monotonic==1.5
 nbconvert==5.6.1
 nbformat==5.0.6
 netifaces==0.10.4
-notebook==6.0.3
+notebook==6.4.1
 oauthlib==2.1.0
 olefile==0.46
 pandocfilters==1.4.2
